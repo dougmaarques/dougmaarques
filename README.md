@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Douglas!</h1>
+<h1 align="center">Olá, eu sou o Douglas! :v: </h1>
 <div style="display: inline_block">
   
 Sou entusiasta no mundo dos dados e trabalho a mais de 3 anos com banco e análise de dados.  
